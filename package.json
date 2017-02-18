@@ -1,0 +1,22 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100819847/Repo-Ayuda-DSI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100819847/Repo-Ayuda-DSI/issues"
+  },
+  "homepage": "https://github.com/alu0100819847/Repo-Ayuda-DSI#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
