@@ -1,0 +1,23 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "Apuntes de JavaScript para ayudar en la realización de la práctica \"Primeros pasos en NodeJS\".",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100819847/Repo-Ayuda-DSI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100819847/Repo-Ayuda-DSI/issues"
+  },
+  "homepage": "https://github.com/alu0100819847/Repo-Ayuda-DSI#readme"
+}
