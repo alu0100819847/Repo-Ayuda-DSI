@@ -4,7 +4,11 @@
   "description": "Apuntes de JavaScript para ayudar en la realización de la práctica \"Primeros pasos en NodeJS\".",
   "main": "index.js",
   "dependencies": {
-    "gh-pages": "^0.12.0"
+    "gh-pages": "^0.12.0",
+    "gitbook-cli": "^2.3.0",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-shell": "^0.6.1"
   },
   "devDependencies": {},
   "scripts": {
